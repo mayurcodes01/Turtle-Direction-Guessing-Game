@@ -36,7 +36,6 @@ Tkinter-based GUI panel for interaction.
 2.  Save the script as `direction_guessing_game.py`.
 3.  Run the script:
 
-```{=html}
 ```
     python direction_guessing_game.py
 

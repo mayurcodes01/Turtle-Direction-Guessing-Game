@@ -39,6 +39,7 @@ Tkinter-based GUI panel for interaction.
 ```
     python direction_guessing_game.py
 
+
 Two windows will open: - Turtle movement window - Tkinter control window
 
 ## Future Improvements
